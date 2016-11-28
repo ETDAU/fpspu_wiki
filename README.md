@@ -39,7 +39,8 @@
 ####Code Repos Here:
 
 
-[### R V.S Python Fight!](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
+### R V.S Python Fight!
+[A Infograpic on which is better/worst](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
 
 
 ###Markdown
