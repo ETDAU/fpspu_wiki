@@ -1,6 +1,6 @@
-# Welcome to MAESD! :+1:
+# Welcome to FPSP! :+1: 
 
-## Here are things you would need! 
+## The internet is a crazy place. Here are tools you would need for our work! 
 
 ### python 
 [Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
