@@ -30,6 +30,8 @@ Woo Shiny. It our main dashboarding/visualization tool <br>
 
 to install run in r >install.packages("shiny")
 
+### R Markdown Flexdashboard  
+http://rmarkdown.rstudio.com/flexdashboard 
 
 ### Common R Packages Used 
 
@@ -49,7 +51,8 @@ library(shiny)<br>
 [data.table] (https://rstudio.github.io/DT/) 
 
 
-####Cheat Sheets 
+
+#### Cheat Sheets 
 
 [] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
 
