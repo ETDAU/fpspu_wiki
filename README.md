@@ -31,7 +31,8 @@ Woo Shiny. It our main dashboarding/visualization tool <br>
 to install run in r >install.packages("shiny")
 
 ### R Markdown Flexdashboard  
-http://rmarkdown.rstudio.com/flexdashboard 
+http://rmarkdown.rstudio.com/flexdashboard
+http://www.htmlwidgets.org/showcase_d3heatmap.html
 
 ### Common R Packages Used 
 
