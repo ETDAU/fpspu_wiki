@@ -3,15 +3,15 @@
 ##Here are things you would need! 
 
 ###python 
-Programing Language that is super straight foward 
-####Anaconda
+[Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
+
 [Download Here-> Does not need SODO] (https://www.continuum.io/downloads) 
 
 
-#####Tutorials 
-[Python the Hard Way] (https://learnpythonthehardway.org/book/) 
+####Tutorials 
+[Python the Hard Way] (https://learnpythonthehardway.org/book/)
 
-#####Cheat Sheets 
+####Cheat Sheets 
 
 
 
@@ -20,14 +20,28 @@ Code Repos Here:
 
 
 ###R 
-Programing language that is also super stragiht foward 
 [Download Here-> Does not need SODO] (https://cran.r-project.org/)
+
 ####RStudioIDE 
 [Download here-> Just open .exe] (https://download1.rstudio.org/RStudio-1.0.44.zip) 
+
 ####Shiny
 
 
+####Tutorials 
+
+####Cheat Sheets 
+
+
+
+####Code Repos Here:
+
+
+
+
 ###Markdown
+Markdown is a easy way to style text on the web. This is written in markdown! 
+[Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -40,4 +54,4 @@ Programing language that is also super stragiht foward
 
 ###Slack 
 **Ask Alex**
-
+fpspu.slack.com 
