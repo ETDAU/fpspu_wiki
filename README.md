@@ -5,7 +5,7 @@
 ### python 
 [Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
 <br>
-[Download Here-> Does not need SODO] (https://www.continuum.io/downloads) 
+[Download Here] (https://www.continuum.io/downloads) -> Does not need SODO request 
 
 
 #### Tutorials 
@@ -20,10 +20,10 @@
 
 
 ###R 
-[Download Here-> Does not need SODO] (https://cran.r-project.org/)
+[Download Here] (https://cran.r-project.org/)  -> Does not need SODO request 
 
 ####RStudioIDE 
-[Download here-> Just open .exe] (https://download1.rstudio.org/RStudio-1.0.44.zip) 
+[Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) -> Just find and open .exe
 
 ####Shiny
 
