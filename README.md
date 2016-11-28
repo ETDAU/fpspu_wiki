@@ -1,21 +1,20 @@
-#Welcome to MAESD! :+1:
+# Welcome to MAESD! :+1:
 
-##Here are things you would need! 
+## Here are things you would need! 
 
-###python 
+### python 
 [Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
-
 [Download Here-> Does not need SODO] (https://www.continuum.io/downloads) 
 
 
-####Tutorials 
+#### Tutorials 
 [Python the Hard Way] (https://learnpythonthehardway.org/book/)
 
-####Cheat Sheets 
+#### Cheat Sheets 
 
+[Reference guide] (http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf)
 
-
-Code Repos Here:
+#### Code Repos Here:
 
 
 
@@ -29,6 +28,8 @@ Code Repos Here:
 
 
 ####Tutorials 
+
+
 
 ####Cheat Sheets 
 
