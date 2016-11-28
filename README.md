@@ -4,6 +4,7 @@
 
 ### python 
 [Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
+<br>
 [Download Here-> Does not need SODO] (https://www.continuum.io/downloads) 
 
 
