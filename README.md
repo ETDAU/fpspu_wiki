@@ -19,14 +19,14 @@
 
 
 ## R - Programing Language 
-[Download Here] (https://cran.r-project.org/)  -> Does not need SODO request 
+[Download Here] (https://cran.r-project.org/)  -> Does not need SODO request <br>
 
 ### RStudioIDE
-With R usually comes R Studio, This is where all the programing magic happens 
+With R usually comes R Studio, This is where all the programing magic happens <br>
 [Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) -> Just find and open .exe
 
 ### Shiny
-Woo Shiny. It our main dashboarding/visualization tool 
+Woo Shiny. It our main dashboarding/visualization tool <br>
 
 to install run in r >install.packages("shiny")
 
@@ -63,9 +63,9 @@ library(shiny)<br>
 
 ## Text Editors - How to write Programs
 
-Programing requires a text editor. Yeah... It's weird that way. Here are the 2 most common ones 
+Programing requires a text editor. Yeah... It's weird that way. Here are the 2 most common ones <br>
 
-[Notepad ++] (https://notepad-plus-plus.org/repository/7.x/7.2.2/npp.7.2.2.bin.zip)  < - SODO not required. Open .exe 
+[Notepad ++] (https://notepad-plus-plus.org/repository/7.x/7.2.2/npp.7.2.2.bin.zip)  < - SODO not required. Open .exe <br>
 [Sublime 3] (https://download.sublimetext.com/Sublime%20Text%20Build%203126.zip) < - SODO not required. Open .exe 
 
 ## Markdown - How to make README's pretty 
