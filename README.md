@@ -19,17 +19,17 @@
 
 
 
-###R 
+### R 
 [Download Here] (https://cran.r-project.org/)  -> Does not need SODO request 
 
-####RStudioIDE 
+#### RStudioIDE 
 [Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) -> Just find and open .exe
 
-####Shiny
+#### Shiny
 
 
-####Tutorials 
-
+#### Tutorials 
+[data.table] (https://rstudio.github.io/DT/) 
 
 
 ####Cheat Sheets 
@@ -39,21 +39,23 @@
 ####Code Repos Here:
 
 
+[### R V.S Python Fight!](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
 
 
 ###Markdown
 Markdown is a easy way to style text on the web. This is written in markdown! 
+<br>
 [Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
 
 ###Github 
-[Download Here-> SODO Required] (https://cran.r-project.org/)
+[Download Here] (https://desktop.github.com/) -> SODO Required
 
 
 
 
 ###Slack 
-**Ask Alex**
+**Ask Alex** <br>
 fpspu.slack.com 
