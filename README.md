@@ -2,9 +2,8 @@
 
 ## The internet is a crazy place. Here are tools you would need for our work!
 
-## python 
-[Wikipedia Article for More Information] (https://en.wikipedia.org/wiki/Python_(programming_language))
-<br>
+## python - Programing Language 
+
 [Download Here] (https://www.continuum.io/downloads) -> Does not need SODO request 
 
 
@@ -19,7 +18,7 @@
 
 
 
-## R 
+## R - Programing Language 
 [Download Here] (https://cran.r-project.org/)  -> Does not need SODO request 
 
 ### RStudioIDE
@@ -62,14 +61,14 @@ library(shiny)<br>
 
 
 
-## Text Editors 
+## Text Editors - How to write Programs
 
 Programing requires a text editor. Yeah... It's weird that way. Here are the 2 most common ones 
 
 [Notepad ++] (https://notepad-plus-plus.org/repository/7.x/7.2.2/npp.7.2.2.bin.zip)  < - SODO not required. Open .exe 
 [Sublime 3] (https://download.sublimetext.com/Sublime%20Text%20Build%203126.zip) < - SODO not required. Open .exe 
 
-## Markdown
+## Markdown - How to make README's pretty 
 Markdown is a easy way to style text on the web. This is written in markdown! 
 <br>
 [Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -77,7 +76,7 @@ Markdown is a easy way to style text on the web. This is written in markdown!
 
 
 
-## Github 
+## Github - Code Repository and Version Control 
 This is how our unit is going to version control our app/programs/stuff. 
 [Click here] (https://github.com) to take me there (though this is written in git markdown so you should be "here" already) 
 [Download Here] (https://desktop.github.com/) -> SODO 
@@ -85,6 +84,6 @@ This is how our unit is going to version control our app/programs/stuff.
 
 
 
-## Slack 
+## Slack - How to communicate with everybody 
 **Ask Alex** <br>
 fpspu.slack.com 
