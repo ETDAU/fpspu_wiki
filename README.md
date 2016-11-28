@@ -51,7 +51,7 @@ library(shiny)<br>
 
 ####Cheat Sheets 
 
-
+[] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
 
 ####Code Repos Here:
 
