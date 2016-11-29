@@ -6,7 +6,6 @@ The internet is a crazy place. Here are tools you would need for our work!
 
 [Download Here] (https://www.continuum.io/downloads) -> Does not need SODO request 
 
-
 #### Tutorials 
 [Python the Hard Way] (https://learnpythonthehardway.org/book/)
 
@@ -21,18 +20,19 @@ The internet is a crazy place. Here are tools you would need for our work!
 ## R - Programing Language 
 [Download Here] (https://cran.r-project.org/)  -> Does not need SODO request <br>
 
-### RStudioIDE
+#### RStudioIDE
 With R usually comes R Studio, This is where all the programing magic happens <br>
 [Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) -> Just find and open .exe
 
-### Shiny
+#### Shiny
 Woo Shiny. It our main dashboarding/visualization tool <br>
 
 to install run in r >install.packages("shiny")
 
 ### R Markdown Flexdashboard  
-http://rmarkdown.rstudio.com/flexdashboard
-http://www.htmlwidgets.org/showcase_d3heatmap.html
+
+http://rmarkdown.rstudio.com/flexdashboard <br>
+http://www.htmlwidgets.org/showcase_d3heatmap.html <br>
 
 ### Common R Packages Used 
 
@@ -47,20 +47,19 @@ library(data.table)<br>
 library(shiny)<br>
  
 
-
-#### Tutorials 
+### Tutorials 
 [data.table] (https://rstudio.github.io/DT/) 
+[Deploying a Shiny Server] (https://qualityandinnovation.com/2015/12/09/deploying-your-very-own-shiny-server/)
+[Tutorial on Shiny] (http://deanattali.com/blog/building-shiny-apps-tutorial/)
+
+### Cheat Sheets 
+
+[Quandl] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
+
+###Code Repos Here:
 
 
-
-#### Cheat Sheets 
-
-[] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
-
-####Code Repos Here:
-
-
-### R V.S Python Fight!
+## R V.S Python Fight!
 [A Infograpic on which is better/worst](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
 
 
@@ -85,9 +84,21 @@ This is how our unit is going to version control our app/programs/stuff.
 [Click here] (https://github.com) to take me there (though this is written in git markdown so you should be "here" already) 
 [Download Here] (https://desktop.github.com/) -> SODO 
 
-
+There are 2 ways to github: Use the web graphical interface 
 
 
 ## Slack - How to communicate with everybody 
 **Ask Alex** <br>
 fpspu.slack.com 
+
+##Tips and Tricks
+
+####OPSGuest Wifi
+This exists. It requires the guest to request for it using an ontario.ca email... But I'm sure you can figure it out. This is handy if you decide to bring your own laptop to run code from or to get around SODO requests 
+
+####Outlook Webmail 
+Need to check your email at home? [Webmail] (https://webmail.ontario.ca) 
+
+
+####Directory 
+Need to find out where someone works? [Info-Go] (http://www.infogo.gov.on.ca)
