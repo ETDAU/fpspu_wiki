@@ -18,23 +18,21 @@ The internet is a crazy place. Here are tools you would need for our work!
 
 
 ## R - Programing Language 
-[Download Here] (https://cran.r-project.org/)  -> Does not need SODO request <br>
+
+1. [Download Here] (https://cran.r-project.org/)  -> Does not need SODO request <br>
+2. Run Installer
+
 
 #### RStudioIDE
 With R usually comes R Studio, This is where all the programing magic happens <br>
-[Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) -> Just find and open .exe
 
-#### Shiny
-Woo Shiny. It our main dashboarding/visualization tool <br>
+1. [Download here] (https://download1.rstudio.org/RStudio-1.0.44.zip) Just find and open .exe
+2. Extract the .zip file and into a folder called Rstudio in your C: 
+3. Create a Shortcut to the bin/rstudio.exe by right-clicking on the file and create a shortcut and place it anywhere you like (desktop is the best bet...
 
-to install run in r >install.packages("shiny")
+#### So, You're new to R
 
-### R Markdown Flexdashboard  
-
-http://rmarkdown.rstudio.com/flexdashboard <br>
-http://www.htmlwidgets.org/showcase_d3heatmap.html <br>
-
-### Common R Packages Used 
+r command = install.packages( )
 
 library(readxl)<br>
 library(ggplot2)<br>
@@ -45,24 +43,35 @@ library(DT)<br>
 library(ggthemes)<br>
 library(data.table)<br>
 library(shiny)<br>
- 
+
+#####Swirl 
+
+http://swirlstats.com/
+
+#### Shiny
+Woo Shiny. It our main dashboarding/visualization tool <br>
+
+to install run in r >install.packages("shiny")
+
+
+### R Markdown Flexdashboard (data viz dashboard)  
+
+http://rmarkdown.rstudio.com/flexdashboard <br>
+http://www.htmlwidgets.org/showcase_d3heatmap.html <br>
+
 
 ### Tutorials 
 [data.table] (https://rstudio.github.io/DT/) 
 [Deploying a Shiny Server] (https://qualityandinnovation.com/2015/12/09/deploying-your-very-own-shiny-server/)
-[Tutorial on Shiny] (http://deanattali.com/blog/building-shiny-apps-tutorial/)
+https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
 
 ### Cheat Sheets 
 
 [Quandl] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
 
-###Code Repos Here:
-
 
 ## R V.S Python Fight!
 [A Infograpic on which is better/worst](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
-
-
 
 ## Text Editors - How to write Programs
 
