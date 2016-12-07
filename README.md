@@ -1,6 +1,6 @@
 # Welcome to GOV! :+1: 
 
-The internet/gov/digital is a crazy place. Here are tools you would need for our work! 
+The internet/gov/digital is a crazy place. Use this to help you navigate the choppy waters of digital. 
 
 ## R - Programing Language 
 
