@@ -163,6 +163,10 @@ Google Chrome does not support webgl <- why? I have no idea
 
 https://github.com/infrastructureanalytics
 
+#### Web Dev 
+
+Want to dive head first in understanding how web works? Become a web dev today! <- will be useful when we start deploying dashboards 
+http://upskillcourses.com/p/essential-web-developer-course
 
 #####curated by alexC!
 
