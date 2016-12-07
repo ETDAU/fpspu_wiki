@@ -1,21 +1,6 @@
 # Welcome to GOV! :+1: 
 
-The internet is a crazy place. Here are tools you would need for our work!
-
-## python - Programing Language 
-
-[Download Here] (https://www.continuum.io/downloads) -> Does not need SODO request 
-
-#### Tutorials 
-[Python the Hard Way] (https://learnpythonthehardway.org/book/)
-
-#### Cheat Sheets 
-
-[Reference guide] (http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf)
-
-#### Code Repos Here:
-
-
+The internet/gov/digital is a crazy place.Here are tools you would need for our work! 
 
 ## R - Programing Language 
 
@@ -39,14 +24,12 @@ library(ggplot2)<br>
 library(plotly)<br>
 library(scales)<br>
 library(tidyr)<br>
+library(dplyr)<br>
 library(DT)<br>
 library(ggthemes)<br>
 library(data.table)<br>
 library(shiny)<br>
-
-#####Swirl 
-
-http://swirlstats.com/
+library(devtools)
 
 #### Shiny
 Woo Shiny. It our main dashboarding/visualization tool <br>
@@ -64,10 +47,36 @@ http://www.htmlwidgets.org/showcase_d3heatmap.html <br>
 [data.table] (https://rstudio.github.io/DT/) 
 [Deploying a Shiny Server] (https://qualityandinnovation.com/2015/12/09/deploying-your-very-own-shiny-server/)
 https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
+#####Swirl <- Learn R here! 
+
+http://swirlstats.com/
+
+No R tutorial section is complete without Hadley Wickham<br>
+http://hadley.nz/ 
+
+####R programing style guide <-Let's write beautiful code. 
+https://google.github.io/styleguide/Rguide.xml 
 
 ### Cheat Sheets 
 
 [Quandl] (https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
+
+
+## python - Programing Language 
+
+[Download Here] (https://www.continuum.io/downloads) -> Does not need SODO request 
+
+#### Tutorials 
+[Python the Hard Way] (https://learnpythonthehardway.org/book/
+
+#### Cheat Sheets 
+
+[Reference guide] (http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf)
+
+#### Style Guide <- Let's create beautiful code
+https://google.github.io/styleguide/pyguide.html
+
+#### Code Repos Here:
 
 
 ## R V.S Python Fight!
@@ -86,14 +95,19 @@ Markdown is a easy way to style text on the web. This is written in markdown!
 [Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
-
-
 ## Github - Code Repository and Version Control 
 This is how our unit is going to version control our app/programs/stuff. 
 [Click here] (https://github.com) to take me there (though this is written in git markdown so you should be "here" already) 
 [Download Here] (https://desktop.github.com/) -> SODO 
 
-There are 2 ways to github: Use the web graphical interface 
+There are 2 ways to github
+1.Use the web graphical interface<br>
+https://guides.github.com/activities/hello-world/
+2. Use the desktop app<br>
+https://help.github.com/desktop/guides/getting-started/
+3. Be a wizard. Command line <br>
+https://learnpythonthehardway.org/book/appendixa.html
+https://try.github.io/levels/1/challenges/1
 
 
 ## Slack - How to communicate with everybody 
@@ -103,14 +117,21 @@ fpspu.slack.com
 ##Tips and Tricks
 
 ####OPSGuest Wifi
-This exists. It requires the guest to request for it using an ontario.ca email... But I'm sure you can figure it out. This is handy if you decide to bring your own laptop to run code from or to get around SODO requests 
+This exists. It requires the guest to request for it using an ontario.ca email... But I'm sure you can figure it out. This is handy if you decide to bring your own laptop to run code from or to test web stuffz
 
 ####Outlook Webmail 
 Need to check your email at home? [Webmail] (https://webmail.ontario.ca) 
-
 
 ####Directory 
 Need to find out where someone works? [Info-Go] (http://www.infogo.gov.on.ca)
 
 #### Project Management (PM) Tools and Templates
 [Offical Offical OPS] (https://intra.sse.gov.on.ca/esc/itsourceclient/Project%20Source/Tools%20and%20Templates/PM%20Tools%20Templates.aspx)
+
+#### Weird stuff 
+Google Chrome does not support webgl <- why? I have no idea 
+
+#### Other git repos that will be helpful 
+
+https://github.com/infrastructureanalytics
+
