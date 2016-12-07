@@ -17,18 +17,18 @@ With R usually comes R Studio, This is where all the programing magic happens <b
 #### So, You're new to R
 ### first run this code
 ```r
-install.packages("readxl")<br>
-install.packages("ggplot2")<br>
-install.packages("plotly")<br>
-install.packages("scales")<br>
-install.packages("tidyr")<br>
-install.packages("dplyr")<br>
-install.packages("DT")<br>
-install.packages("ggthemes")<br>
-install.packages("data.table")<br>
-install.packages("shiny")<br>
-install.packages("devtools")<br>
-install.packages("lubridate")<br>
+install.packages("readxl")
+install.packages("ggplot2")
+install.packages("plotly")
+install.packages("scales")
+install.packages("tidyr")
+install.packages("dplyr")
+install.packages("DT")
+install.packages("ggthemes")
+install.packages("data.table")
+install.packages("shiny")
+install.packages("devtools")
+install.packages("lubridate")
 install.packages("stringr")
 
 ```
