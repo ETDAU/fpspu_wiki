@@ -1,6 +1,6 @@
 # Welcome to GOV! :+1: 
 
-The internet/gov/digital is a crazy place.Here are tools you would need for our work! 
+The internet/gov/digital is a crazy place. Here are tools you would need for our work! 
 
 ## R - Programing Language 
 
@@ -92,6 +92,10 @@ Markdown is a easy way to style text on the web. This is written in markdown!
 <br>
 [Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## Open Refine
+Data cleaning. Gui Based. Super Powerful 
+http://openrefine.org/
+
 
 ## Github - Code Repository and Version Control 
 This is how our unit is going to version control our app/programs/stuff. 
@@ -111,6 +115,8 @@ https://try.github.io/levels/1/challenges/1
 ## Slack - How to communicate with everybody 
 **Ask Alex** <br>
 fpspu.slack.com 
+
+
 
 ## Tips and Tricks
 
