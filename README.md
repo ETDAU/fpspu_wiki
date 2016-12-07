@@ -3,8 +3,8 @@
 The internet/gov/digital is a crazy place. Use this to help you navigate the choppy waters of digital.
 
 Key things to remeber:
-Iterate Iterate Iterate
-90% cleaning 10% Analysis 
+<br>Iterate Iterate Iterate
+<br>90% Cleaning 10% Analysis 
 
 ## R - Programing Language 
 
