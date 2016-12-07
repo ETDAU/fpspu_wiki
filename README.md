@@ -1,6 +1,10 @@
 # Welcome to GOV! :+1: 
 
-The internet/gov/digital is a crazy place. Use this to help you navigate the choppy waters of digital. 
+The internet/gov/digital is a crazy place. Use this to help you navigate the choppy waters of digital.
+
+Key things to remeber:
+Iterate Iterate Iterate
+90% cleaning 10% Analysis 
 
 ## R - Programing Language 
 
@@ -14,7 +18,10 @@ With R usually comes R Studio, This is where all the programing magic happens <b
 2. Extract the .zip file and into a folder called Rstudio in your C: 
 3. Create a Shortcut to the bin/rstudio.exe by right-clicking on the file and create a shortcut and place it anywhere you like (desktop is the best bet...
 
-#### So, You're new to R
+### So, You're new to R
+
+It's ok! everyone starts somewhere! 
+
 ### first run this code
 ```r
 install.packages("readxl")
@@ -79,11 +86,21 @@ https://google.github.io/styleguide/Rguide.xml
 #### Style Guide <- Let's create beautiful code
 https://google.github.io/styleguide/pyguide.html
 
+
 #### Code Repos Here:
+
 
 
 ### R V.S Python Fight!
 [A Infograpic on which is better/worst](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs._O6U9yY)
+
+## Hate doing boring stuff? 
+
+https://automatetheboringstuff.com/ 
+
+## Need to make flow charts? Lucid Charts
+
+https://www.lucidchart.com/
 
 ## Text Editors - How to write Programs
 
@@ -101,6 +118,8 @@ Markdown is a easy way to style text on the web. This is written in markdown!
 Data cleaning. Gui Based. Super Powerful 
 http://openrefine.org/
 
+
+## Machine Learning  
 
 ## Github - Code Repository and Version Control 
 This is how our unit is going to version control our app/programs/stuff. 
