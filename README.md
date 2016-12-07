@@ -15,20 +15,25 @@ With R usually comes R Studio, This is where all the programing magic happens <b
 3. Create a Shortcut to the bin/rstudio.exe by right-clicking on the file and create a shortcut and place it anywhere you like (desktop is the best bet...
 
 #### So, You're new to R
+### first run this code
+```r
+install.packages("readxl")<br>
+install.packages("ggplot2")<br>
+install.packages("plotly")<br>
+install.packages("scales")<br>
+install.packages("tidyr")<br>
+install.packages("dplyr")<br>
+install.packages("DT")<br>
+install.packages("ggthemes")<br>
+install.packages("data.table")<br>
+install.packages("shiny")<br>
+install.packages("devtools")<br>
+install.packages("lubridate")<br>
+install.packages("stringr")
 
-r command = install.packages( )
+```
 
-library(readxl)<br>
-library(ggplot2)<br>
-library(plotly)<br>
-library(scales)<br>
-library(tidyr)<br>
-library(dplyr)<br>
-library(DT)<br>
-library(ggthemes)<br>
-library(data.table)<br>
-library(shiny)<br>
-library(devtools)
+https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages <- more packages
 
 #### Shiny
 Woo Shiny. It our main dashboarding/visualization tool <br>
