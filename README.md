@@ -56,7 +56,8 @@ http://www.htmlwidgets.org/showcase_d3heatmap.html <br>
 #### Tutorials 
 [data.table] (https://rstudio.github.io/DT/) 
 [Deploying a Shiny Server] (https://qualityandinnovation.com/2015/12/09/deploying-your-very-own-shiny-server/)
-https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
+[Time Series]https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
+[Intro to Data Cleaning] (https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 ##### Swirl <- Learn R here! 
 
 http://swirlstats.com/
@@ -86,6 +87,9 @@ https://google.github.io/styleguide/Rguide.xml
 #### Style Guide <- Let's create beautiful code
 https://google.github.io/styleguide/pyguide.html
 
+#### Dashboard 
+
+https://github.com/airbnb/superset 
 
 #### Code Repos Here:
 
