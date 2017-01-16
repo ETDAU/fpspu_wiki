@@ -9,5 +9,5 @@ Personal Phone Number: 778-834-3200
 Personal Email: alexaca79@gmail.com  
 
 
-#####curated by alexC!
-
+###curated by alexC!
+I think Tom also helped somewhere. 
