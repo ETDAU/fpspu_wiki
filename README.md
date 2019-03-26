@@ -10,4 +10,3 @@ Personal Email: alexaca79@gmail.com
 
 
 ###curated by alexC!
-I think Tom also helped somewhere. 
